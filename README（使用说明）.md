@@ -4,6 +4,6 @@ I used a phone keyboard skin with Google logo colors before.It's color matching 
 
 
 qingyanribw-theme-pixel 支持（support）Chinese language和english language
-qingyanribw-theme  支持（support）english language
+  qingyanribw-theme  支持（support）english language
 
 （这其实是因为我一直都在使用不适配英文的版本但是没有发现，为了更改中文字体不适配的问题，发现是要更改原主题的像素主题版本。这俩的区别就在于是否是像素字体而已）
